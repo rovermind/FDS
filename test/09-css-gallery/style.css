@@ -39,4 +39,5 @@ body{
 }
 .gallery img {
 	width: 100%;
+	vertical-align: bottom;
 }
